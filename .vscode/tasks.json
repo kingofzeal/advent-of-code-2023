@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Day 02/Day 02.csproj",
+                "${workspaceFolder}/Day 04/Day 04.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Day 02/Day 02.csproj",
+                "${workspaceFolder}/Day 04/Day 04.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Day 02/Day 02.csproj"
+                "${workspaceFolder}/Day 04/Day 04.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
